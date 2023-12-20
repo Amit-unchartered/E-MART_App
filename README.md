@@ -37,26 +37,26 @@ $ sudo -i
 ### Project Setup
 1. Clone the repository inside the VM.
 ```
-git clone https://github.com/Amit-unchartered/E-MART_App.git
+# git clone https://github.com/Amit-unchartered/E-MART_App.git
 ```
 2. change directory into E-MART_App.
 ```
-cd E-MART_App
+# cd E-MART_App
 ```
 3. Make sure there are no other containers present, **if present then** to stop and remove the container
 ```
-docker compose down
+# docker compose down
 ```
 4. Remove all the earlier containers and images before setting up this project.
 ```
-docker system prune -a
+# docker system prune -a
 ```
 5. Now, we will be orchestrating with docker compose.
 ```
-docker compose up -d
+# docker compose up -d
 ```
 6. The project is set up, if you want to access it from outside the VM, then we must know the VM's IP address
 ```
-ip addr show
+# ip addr show
 ```
 ***Find for the class C ip address i.e 192.168.x.y, type this ip at top of your browser, it will route the request to port 80.***
