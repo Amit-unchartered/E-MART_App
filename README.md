@@ -20,9 +20,9 @@ Containerization provides a standardized and portable environment for applicatio
 ```
 $ git clone https://github.com/Amit-unchartered/E-MART_App.git
 ```
-2. Change directory to vagrant
+2. Change directory to E-MART_App, then to vagrant
 ```
-$ cd vagrant
+$ cd E-MART_App/vagrant
 ```
 3. Do vagrant up, it contains all the commands for docker installation and its dependencies.
 ```
