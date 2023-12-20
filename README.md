@@ -1,1 +1,1 @@
-# E-Commerce Mart Application using Microservices.
+# Containairized Microservice Project : E-commerce project
