@@ -1,4 +1,4 @@
-# Containerizing a Microservice E-Commerce Application with Multiple Microservices
+# Containerizing a Microservice E-Commerce Application with Multiple Microservices Locally
 
 ## App Description
 The e-commerce application is divided into four distinct services:
