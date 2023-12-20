@@ -14,3 +14,21 @@ The e-commerce application is divided into four distinct services:
 <ins>**The Need for Containerization**</ins>
 
 Containerization provides a standardized and portable environment for applications. It encapsulates each microservice along with its dependencies, ensuring consistency across different environments. Docker, a leading containerization platform, is the tool of choice for this project.
+
+Project Setup
+1. Clone the repository.
+```
+$ git clone https://github.com/Amit-unchartered/E-MART_App.git
+```
+2. Change directory to vagrant
+```
+$ cd vagrant
+```
+Do vagrant up, it contains all the commands for docker installation and its dependencies.
+```
+$ vagrant up
+```
+Switch to root user
+```
+sudo -i
+```
