@@ -1,1 +1,1 @@
-# Containairized Microservice Project : E-commerce project
+# Containerizing a Microservice E-Commerce Application with Multiple Microservices
