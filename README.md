@@ -27,7 +27,7 @@ $ cd E-MART_App/vagrant
 3. Do vagrant up, it contains all the commands for docker installation and its dependencies.
 ```
 $ vagrant up
-$vagrant ssh
+$ vagrant ssh
 ```
 4. Switch to root user
 ```
